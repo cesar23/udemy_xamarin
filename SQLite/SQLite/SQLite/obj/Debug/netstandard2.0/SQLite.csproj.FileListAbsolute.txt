@@ -1,0 +1,11 @@
+D:\udemy_xamarin\SQLite\SQLite\SQLite\bin\Debug\netstandard2.0\SQLite.deps.json
+D:\udemy_xamarin\SQLite\SQLite\SQLite\bin\Debug\netstandard2.0\SQLite.dll
+D:\udemy_xamarin\SQLite\SQLite\SQLite\bin\Debug\netstandard2.0\SQLite.pdb
+D:\udemy_xamarin\SQLite\SQLite\SQLite\obj\Debug\netstandard2.0\SQLite.csprojResolveAssemblyReference.cache
+D:\udemy_xamarin\SQLite\SQLite\SQLite\obj\Debug\netstandard2.0\SQLite.csproj.CoreCompileInputs.cache
+D:\udemy_xamarin\SQLite\SQLite\SQLite\obj\Debug\netstandard2.0\SQLite.App.xaml.g.cs
+D:\udemy_xamarin\SQLite\SQLite\SQLite\obj\Debug\netstandard2.0\SQLite.MainPage.xaml.g.cs
+D:\udemy_xamarin\SQLite\SQLite\SQLite\obj\Debug\netstandard2.0\SQLite.AssemblyInfoInputs.cache
+D:\udemy_xamarin\SQLite\SQLite\SQLite\obj\Debug\netstandard2.0\SQLite.AssemblyInfo.cs
+D:\udemy_xamarin\SQLite\SQLite\SQLite\obj\Debug\netstandard2.0\SQLite.dll
+D:\udemy_xamarin\SQLite\SQLite\SQLite\obj\Debug\netstandard2.0\SQLite.pdb

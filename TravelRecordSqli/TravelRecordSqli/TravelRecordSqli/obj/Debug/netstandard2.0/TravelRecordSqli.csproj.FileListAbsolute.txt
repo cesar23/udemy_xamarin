@@ -1,0 +1,8 @@
+D:\udemy_xamarin\TravelRecordSqli\TravelRecordSqli\TravelRecordSqli\bin\Debug\netstandard2.0\TravelRecordSqli.deps.json
+D:\udemy_xamarin\TravelRecordSqli\TravelRecordSqli\TravelRecordSqli\bin\Debug\netstandard2.0\TravelRecordSqli.dll
+D:\udemy_xamarin\TravelRecordSqli\TravelRecordSqli\TravelRecordSqli\obj\Debug\netstandard2.0\TravelRecordSqli.csprojResolveAssemblyReference.cache
+D:\udemy_xamarin\TravelRecordSqli\TravelRecordSqli\TravelRecordSqli\obj\Debug\netstandard2.0\TravelRecordSqli.csproj.CoreCompileInputs.cache
+D:\udemy_xamarin\TravelRecordSqli\TravelRecordSqli\TravelRecordSqli\obj\Debug\netstandard2.0\TravelRecordSqli.App.xaml.g.cs
+D:\udemy_xamarin\TravelRecordSqli\TravelRecordSqli\TravelRecordSqli\obj\Debug\netstandard2.0\TravelRecordSqli.MainPage.xaml.g.cs
+D:\udemy_xamarin\TravelRecordSqli\TravelRecordSqli\TravelRecordSqli\obj\Debug\netstandard2.0\TravelRecordSqli.AssemblyInfoInputs.cache
+D:\udemy_xamarin\TravelRecordSqli\TravelRecordSqli\TravelRecordSqli\obj\Debug\netstandard2.0\TravelRecordSqli.AssemblyInfo.cs
